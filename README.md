@@ -1,4 +1,4 @@
-# Surviving-The-Grid
+# Surviving-The-Grid (Python)
 Grid Search Using A* Algorithm
 
 ## Problem statement: 
