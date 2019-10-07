@@ -1,5 +1,5 @@
 # Surviving-The-Grid (Python)
-Grid Search Using A* Algorithm
+Problem Solving by Searching using IDA* and Best First Search
 
 ## Problem statement: 
 You are stranded somewhere on an 11x8 grid. The green dot in the below figure
